@@ -1,0 +1,20 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "To run BAMazon execute the following command in the bash/terminal/command prompt of your choice in the root of the project directory.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkelly808/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkelly808/Bamazon/issues"
+  },
+  "homepage": "https://github.com/bkelly808/Bamazon#readme"
+}
