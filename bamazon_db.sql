@@ -17,28 +17,29 @@ INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Fire 7 Kids Edition Tablet, 7in", "Electronics", 70, 50);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Fire TV streaming stick", "Electronics", 5);
+VALUES ("Fire TV streaming stick", "Electronics", 25, 100);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("", , 2);
+VALUES ("Black+Decker Cordless Lithium Hand Vaccum", "Household Products", 20, 50);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("", , 8);
+VALUES ("Mellanni Bed Sheet Set", "Household Products", 80, 50);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("", , 8);
+VALUES ("Philips Wake-Up Light", "Household Products", 10, 20);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("", , 8);
+VALUES ("Fujifilm Instax Mini 9", "Electronics", 60, 80);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("", , 8);
+VALUES ("Homedics White Noise Machine", "Household Products", 80, 10);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("", , 8);
+VALUES ("URPower Essential Oil Diffuser", "Household Products", 80, 50);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("", , 8);
+VALUES ("Instant Pot Plus", "Kitchen Appliances", 65, 40);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("", , 8);
+VALUES ("Nutribullet High Speed Blender", "Kitchen Appliances", 90, 30);
+
